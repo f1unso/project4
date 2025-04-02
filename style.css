@@ -1,0 +1,41 @@
+body {
+     font-family: Arial, sans-serif;
+      background-color: #4c3752;
+       color: white;
+        margin: 0;
+         padding: 0;
+         }
+         
+          header {
+             text-align: center;
+              font-size: 24px;
+               padding: 20px;
+                background-color: #e8c6a7;
+                 color: #4c3752;
+                  font-weight: bold;
+                 }
+
+                 main {
+                     padding: 20px;
+                      text-align: justify;
+                       max-width: 900px;
+                        margin: auto;
+                     } 
+
+                     .highlight { 
+                        font-weight: bold;
+                     } 
+
+                     .highlight-yellow { 
+                        background-color: yellow;
+                         color: black;
+                          padding: 2px;
+                         }
+
+                          footer { 
+                            text-align: center;
+                             padding: 10px;
+                              background-color: #e8c6a7;
+                               color: #4c3752;
+                                margin-top: 20px;
+                             } 
